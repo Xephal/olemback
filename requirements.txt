@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+pydantic
+fastapi[all]
+sqlalchemy
+
